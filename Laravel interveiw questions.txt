@@ -1,5 +1,5 @@
-# Q1 : What is laravel ?
+Q1 : What is laravel ?
 A1 : LAravel is an open source widely used PHP framework that was intended to for the development of web application using MVC architectural pattern.
 
-# Q2 : Define Composer
+Q2 : Define Composer
 A2 : It's an application level package manager for PHP.It provides a standard format for managing PHP software dependencies and libraries.
