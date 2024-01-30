@@ -3,3 +3,12 @@ A1 : LAravel is an open source widely used PHP framework that was intended to fo
 
 Q2 : Define Composer
 A2 : It's an application level package manager for PHP.It provides a standard format for managing PHP software dependencies and libraries.
+
+Q3 : What is HTTP middleware?
+A3 : HTTP middleware is technique for filtering HTTP requests.Laravel includes middleware that checks wheather application user is authenticated or not.
+
+Q4 : Name aqqregates methods of query builder
+A4 : sum() , max() , min() , avg() , count()
+
+Q5 : What is route?
+A5 : A route is basically an endpoint specified by a URI (Uniform Resource Identifier).It acts as a pointer in laravel applecations.Most commonly , a route is simply points to a method on a controller and also dictates which HTTP methods are able to hit that URI.
